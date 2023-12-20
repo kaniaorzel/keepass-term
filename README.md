@@ -6,12 +6,12 @@ Main problem with cli tools for keepass is clipboard. You need set DISPLAY. I wa
 
 ## TODO
 
-[ ] read keepass databases
-[ ] save keepass databases
-[ ] present passowrds in terminal
-[ ] add search functionality
-[ ] VIM mode 
-[ ] edit mode for entry
-[ ] add groups
-[ ] edit groups
-[ ] generate safe passwords with settings
+- [ ] read keepass databases
+- [ ] save keepass databases
+- [ ] present passowrds in terminal
+- [ ] add search functionality
+- [ ] VIM mode 
+- [ ] edit mode for entry
+- [ ] add groups
+- [ ] edit groups
+- [ ] generate safe passwords with settings
